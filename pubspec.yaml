@@ -1,0 +1,6 @@
+name: sqlite
+version: 0.0.1
+author: Dave Orton <dave@ambleon.com>
+description: An asynchronous SQLite native extension.
+homepage: https://github.com/daorton/dart-async-sqlite
+dependencies:
